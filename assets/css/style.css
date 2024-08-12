@@ -1,0 +1,71 @@
+.contactos{
+    background-color: #e9316a;
+    margin-bottom: 5px;
+}
+
+body {
+  background-color: red;
+}
+
+.lugares img {
+    width: 400px;
+    height: 180px;
+    border-radius: 14%;
+    border-color: #e9316a;
+    border-style: dotted;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+.enlacesabrosita{
+    color: white;
+}
+
+footer {
+    background-color: #e9316a;
+    color: #fff;
+    text-align: center;
+}
+
+.texto-index {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#664d03;
+}
+
+.segundo-parrafo {
+    color: rgba(32, 55, 201, 0.56);
+}
+
+.footer-contactanos {
+    background-color: #dfa093;
+}
+
+.SABROSITA {
+    font-family:'Roboto', sans-serif;
+    font-size: 35PX;
+    color: #44061a;
+    margin-top: 5PX;
+}
+
+
+.titulo-contactos{
+    color:blue;
+    font-size: 30px;
+}
+.logo-footer{
+    height:200px;
+    width:500px;
+}
+
+#email{
+    color:darkorange;
+}
+.fs-5{
+    font-family: 'Roboto', sans-serif;
+    color:black;
+}
+
+.sabrosita{
+    color: #0d6efd;
+}
